@@ -1,1 +1,3 @@
-##nc-2078-design-system
+## NC 2078 Design System
+
+React Design System with Storybook
