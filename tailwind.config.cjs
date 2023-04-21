@@ -18,7 +18,7 @@ module.exports = {
       'gray-600': '#7C7C8A',
       'gray-800': '#202024',
 
-      'yellow-500': '#FCEDDD',
+      'yellow-500': '#F3E600',
 
       'black': '#000000',
       'white': '#FFFFFF',
@@ -26,7 +26,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: 'Rajdhani, sans-serif'
-      }
+      },
     },
   },
   plugins: [],

@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind utilities;
 @tailwind components;
+
+@layer utilities {
+    .clipped-edge {
+        clip-path: polygon(15% 0, 100% 0, 100% 75%, 85% 100%, 0 100%, 0 25%);
+    }
+ }

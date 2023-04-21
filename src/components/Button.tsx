@@ -11,7 +11,7 @@ export function Button({ children, asChild }: ButtonProps) {
     const Comp = asChild ? Slot : 'button';
     return (
         <Comp className={clsx(
-            'text-black font-sans py-3 px-4 bg-yellow-500', // need to add the linear bg gradient through tailwind
+            'text-black font-sans py-3 px-4 bg-yellow-500 clipped-edge',
         )}
         >
             { children }
