@@ -16,9 +16,13 @@ https://www.figma.com/file/OIY5IMDQ5bR0wZsSnjeE0O/Design-System-2078?node-id=13%
 
 
 Components:
+
+
 ![components list](doc/components.png)
 
 Colors:
+
+
 ![color list](doc/colors.png)
 
 
